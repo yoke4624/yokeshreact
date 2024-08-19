@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family:sans-serif;
+}
+.navbar{
+    background-color:#f7d894 ;
+}
+.navbar-brand img{
+width: 200px;
+float: left;
+}

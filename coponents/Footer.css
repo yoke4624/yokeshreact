@@ -1,0 +1,148 @@
+.foot {
+    display: inline;
+    margin-top: 90px;
+}
+.form-floating{
+    width: 30%;
+    margin-left: 360px;
+    margin-top: -70px;
+}
+.foot .btn{
+    margin-left: 330px;
+    margin-top: -90px;
+    padding: 30px;
+    border: none;
+    outline: none;
+}
+.fish{
+margin-left: 900px;
+margin-top: -80px;
+
+}
+.fish ul li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+   text-decoration: none;
+}
+.blue{
+    background-color: skyblue;
+    height: 200px;
+    margin-top: 80px;
+    padding-left: 120px;
+}
+.icon ul li{
+   display: flex;
+}
+.o1{
+   padding-top: 50px;
+}
+.o2{
+    margin-left: 200px;
+    margin-top: -85px;
+}
+.o2 p{
+   margin-top: 50px;
+   margin-left: -80px;
+}
+.o3{
+    margin-left: 400px;
+    margin-top: -120px;
+}
+.o3 p{
+    margin-top: 50px;
+    margin-left: -100px;
+ }
+.o4{
+    margin-left: 600px;
+    margin-top: -80px;
+}
+.o4 p{
+    margin-top: 50px;
+    margin-left: -100px;
+ }
+.o5{
+    margin-left: 800px;
+    margin-top: -85px;
+}
+.o5 p{
+    margin-top: 50px;
+    margin-left: -100px;
+ }
+.o6{
+    margin-left: 1000px;
+    margin-top: -95px;
+}
+.o6 p{
+    margin-top: 50px;
+    margin-left: -100px;
+ }
+.add{
+    background-color: #defaf5;
+}
+
+.table a{
+text-decoration: none;
+color: black;
+}
+.rro{
+    width: 100%;
+    display: flex;
+}
+.rro .cool1{
+    width: 10%;
+}
+.rro .cool2{
+    width: 15%;
+}
+.rro .cool3{
+    width: 35%;
+    font-size: 15px;
+}
+.rro .cool4{
+    width: 40%;
+}
+.cool4 ul li{
+    list-style: none;
+    display: inline;
+}
+.cool4 ul li img{
+    width: 10%;
+}
+.play{
+    margin-left: 900px;
+    margin-top: 50px;
+    background-color: #defaf5;
+}
+.play h5{
+    font-size: 15px;
+}
+.play ul li{
+   display: inline;
+   list-style: none;
+}
+.play ul li img{
+    width: 20%;
+}
+.last{
+    background-color: #defaf5;
+    margin-top: -15px;
+}
+.yok1{
+    background-color: #defaf5;
+}
+.hhh ul li{
+    list-style: none;
+    padding: 5px;
+}
+.hhh a {
+    text-decoration: none;
+    color: black;
+}
+.qq{
+    font-weight: 900;
+}
+.hhh{
+    background-color: #defaf5;
+    display: flex;
+}
