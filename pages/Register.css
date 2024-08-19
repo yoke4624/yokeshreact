@@ -1,0 +1,13 @@
+.otp{
+    background-image: url(../image/Bglogin.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 900px;
+         padding-left: 300px;
+}
+.otp .btn{
+    width: 20%;
+    margin-left: 300px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,39 @@
+
+.bol img{
+    border-radius: 100px;
+    border: px solid blue;background-color: blue;
+    width: 15%; 
+    margin-bottom: 10px;padding-bottom: 5px;
+   
+}
+.bol h4{
+    font-size: 30px;
+    font-family: fantasy;
+  padding-bottom: 30px;
+}
+.bol ul li{
+    list-style: none;
+    display: inline;
+   padding: 20px;
+}
+.maxc{
+    margin-left: 150px;
+}
+.round{
+    margin-bottom: 50px;
+}
+.round img{
+    border-radius: 200px;
+    border: 3px solid black;
+    width: 15%;
+}
+.round ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 30px;
+}
+.round h4{
+    font-size: 30px;
+    font-family: fantasy;
+    padding-bottom: 30px;
+}
